@@ -1,0 +1,13 @@
+-----BEGIN DOCSIGNED-----
+doc:DocTeste.txt
+alg:RSA
+hash:SHA1
+assinante:Jesimiel Efraim Dias
+
+-----BEGIN DOC-----
+RXN0ZSBhcnF1aXZvIO+/vSBhcGVuYXMgZGUgdGVzdGUgcGFyYSBkb2N1bWVudG9zIGFzc2luYWRvcyBkYSBkaXNjaXBsaW5hIGRlIFNlZ3VyYW7vv71hIGUgQXVkaXRvcmlhIGRlIFNpc3RlbWFzLlllZGE=
+-----END DOC-----
+-----BEGIN SIGNATURE-----
+JO/hUsUgowQLw4QEGL/6+0WLGB5MNuNZa6ATG6b90RpRAmdj0GqrksvxltJ924UP9N9xkIixCxVhtACqrcosLiJxd0oOaWE2rYzXiQ07jQoO3rvB562faqlEOT22VQKsuW7jGfMnr/jH+Fo9BNLvAHwUd8ylJb/80pZT7cChPdq1oig2O+6Kz7rw6Fz+FTrVt0VGwUJyQfji6bHi0rJNi9uYxSOFD22GbfrruhhrTKM8G07temCY0Ii7PjmMnX37GPwhsI/k7UQ9oY1JgA6RiugPg7euPJhD2itH9IU18oLnx5jgqlivGw8x2bC9nAD/yRL3C73gmZhGjNmSiPoyWw==
+-----END SIGNATURE-----
+-----END DOCSIGNED-----
